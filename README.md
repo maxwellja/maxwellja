@@ -1,8 +1,7 @@
-👋 Hi, I’m @maxwellja
-I am an aspiring data professional looking to leverage the strength and vigor of _analysis_ to better the planet.
-I have experience with Python and many of its super duper libraries, and I'm getting more and more familiar with SQL and Bash every day.
+👋 Hi, I’m @maxwellja!
+I am an aspiring data analytics professional. I have experience with SQL, Spreadsheets, Python, and data visualzation programs like Tableau. Here is display my personal projects to illustrate my skills.
 
-In my free time I like to read, watch movies with my partner, run, backpack, and cook!
+In my free time I like to read, cook, run, backpack around my home in Eugene, Oregon.
 
 If you need help with your project, I would enjoy lending a hand!
 
